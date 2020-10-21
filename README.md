@@ -1,4 +1,4 @@
-#Hardwork-vs-Luck
+# Hardwork-vs-Luck
 
 An interesting and counter-intuitive experiment explained in this video: https://youtu.be/3LopI4YeC4I We take 1000 people and distribute them hardwork (0-100) randomly, luck (0-5) randomly and pick winner who has the highest hardwork+luck. Now, we calculate his hardwork percentile and luck percentile. We perform this experiment 10,000 times, and obtain the average hardwork and luck percentile.
 
